@@ -291,9 +291,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 815804fb2fbd9f240ad29f54fc80d49d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 7.5
+  moveSpeed: 8
   theRB: {fileID: 244866082}
-  jumpForce: 15
+  jumpForce: 12
   groundCheckPoint: {fileID: 570360694}
   whatIsGround:
     serializedVersion: 2
